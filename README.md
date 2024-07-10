@@ -2,7 +2,7 @@
 
 I work as a student researcher at the [MEPHisto](https://mephisto.uni-jena.de) group of the [Friedrich-Schiller-Univeristy Jena](https://www.uni-jena.de).
 
-The group is an initiative by the Professorship for Applied Computer Sciences [Prof. Clemens Beckstein](https://ki.uni-jena.de) and the Professorship Medieval History [Prof. Robert Gramsch-Stehfest](https://www.gw.uni-jena.de/2755/apl-prof-dr-robert-gramsch-stehfest).
+The group is an initiative by the Professorship for Applied Computer Sciences [Prof. Clemens Beckstein](https://ki.uni-jena.de) and the Professorship for Medieval History [Prof. Robert Gramsch-Stehfest](https://www.gw.uni-jena.de/2755/apl-prof-dr-robert-gramsch-stehfest).
 
 We currently work on:
 
