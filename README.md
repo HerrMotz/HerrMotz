@@ -12,5 +12,5 @@ An IDE for writing and debugging grammars using ANTLR4.
 ## HisQu
 A joint project with the [University of Göttingen](https://www.uni-goettingen.de/) which makes factoids retrieved from semi-structured sources available in DSLs (e.g. results achieved with πάρεδρος available) and then algorithmically transforms them into [FactGrid](https://database.factgrid.de/wiki/Main_Page)-triples.
 
-# On the side...
+## On the side...
 ... I write articles on my [personal website](https://www.daniel-motz.de/) and do some charity work.
