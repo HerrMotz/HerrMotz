@@ -8,7 +8,7 @@ I am currently working on:
 
 ## Query by Graph
 (My bachelor's thesis:) A collection of tools for querying RDF databases using a visual SPARQL query builder, assisted by OWL ontologies.
-Find a live demo [on my website](https://quebyg.danielmotz.de) and the repository [on GitHub](https://github.com/HerrMotz/bachelor-thesis)
+Find a live demo [on my website](https://quebyg.danielmotz.de) and the repository [on GitHub](https://github.com/HerrMotz/bachelor-thesis).
 
 ## πάρεδρος
 An IDE for writing and debugging grammars using ANTLR4. Πάρεδρος enhances the process of extracting factoids using context-free grammars (Chomsky-type-2 grammars) from semi-structured texts. This is achieved through the integration of ontologies and debugging explanations, which can be understood by laymen.
