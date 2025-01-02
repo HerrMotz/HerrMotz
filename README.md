@@ -7,7 +7,7 @@ The group is an initiative by the Professorship for Applied Computer Science [Pr
 I am currently working on:
 
 ## Query by Graph
-(My bachelor's thesis:) A collection of tools for querying RDF databases using a visual SPARQL query builder, assisted by OWL ontologies.
+(My bachelor's thesis:) A collection of tools for querying RDF databases using a visual SPARQL query builder.
 Find a live demo [on my website](https://quebyg.danielmotz.de) and the repository [on GitHub](https://github.com/HerrMotz/bachelor-thesis).
 
 ## πάρεδρος
