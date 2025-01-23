@@ -16,7 +16,7 @@ An IDE for writing and debugging grammars using ANTLR4. Πάρεδρος enhance
 As part of testing the IDE, we also develop grammars [Repertorium Germanicum](http://www.romana-repertoria.net/993.html) together with the [Professorship for Medieval History](https://www.gw.uni-jena.de/2755/apl-prof-dr-robert-gramsch-stehfest).
  
 ## HisQu
-A joint project with the [University of Göttingen](https://www.uni-goettingen.de/) and the [DHI Rome](http://dhi-roma.it/) which makes factoids retrieved from semi-structured sources available in DSLs (e.g. results achieved with πάρεδρος available) and then algorithmically transforms them into [FactGrid](https://database.factgrid.de/wiki/Main_Page)-triples.
+A joint project with the [University of Göttingen](https://www.uni-goettingen.de/) and the [DHI Rome](http://dhi-roma.it/) which makes factoids retrieved from semi-structured sources available in DSLs (e.g. results achieved with πάρεδρος available) and then algorithmically transforms them into RDF triples for the use in [FactGrid](https://database.factgrid.de/wiki/Main_Page).
 
 ## On the side...
 ... I write articles on my [personal website](https://www.daniel-motz.de/) and do some charity work.
