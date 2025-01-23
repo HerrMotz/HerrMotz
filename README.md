@@ -21,5 +21,5 @@ A joint project with the [University of Göttingen](https://www.uni-goettingen.d
 ## On the side...
 ... I write articles on my [personal website](https://www.daniel-motz.de/) and do some charity work.
 
-## My full CV
+## My full CV...
 ... is available [on my website](https://www.daniel-motz.de/CV-Daniel-Motz-English.pdf)
